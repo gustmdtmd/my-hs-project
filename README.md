@@ -19,5 +19,5 @@
    농구 및 웹툰
 
 6. __좋아하는 영화장면__   
-   ![어바웃타임](C:\big_study\my-hs-project)
+   ![어바웃타임](my-hs-project/../a.jpg)
 
