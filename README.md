@@ -24,3 +24,21 @@
 
 7. __좋아하는 동물__   
  * 강아지
+
+8. __초, 중, 고, 대__   
+ * 포이초등학교
+ * 언남중학교
+ * 언남고등학교
+ * 성남 폴리텍대학교
+
+9. 경력
+ * 스타벅스 3년   
+
+10. java
+~~~java
+public static void main(String[] args){
+   System.out.println("HELLO! JAVA!)
+}
+~~~
+
+   
